@@ -6,7 +6,9 @@ sites:
     url: https://www.portamiinpista.it
   - name: PiP tracks
     url: https://www.portamiinpista.it/Tracks/
-    maxResponseTime: 7000
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Juris
     url: https://www.jurisweb.it
   - name: GP software
