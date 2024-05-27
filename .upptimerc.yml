@@ -8,7 +8,6 @@ sites:
     url: https://gpsoftware.it
   - name: PiP
     url: https://www.portamiinpista.it
-    maxResponseTime: 8000
 - name: Juris
     url: https://www.jurisweb.it
 
