@@ -15,11 +15,6 @@ sites:
     maxResponseTime: 10000
 - name: Juris
     url: https://www.jurisweb.it
-  - name: PiP server IPv6
-    url: 161.97.187.0
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
