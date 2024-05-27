@@ -4,23 +4,19 @@ repo: upptime # The name of this repository
 sites:
   - name: PiP
     url: https://www.portamiinpista.it
-  - name: Wikipedia
+  - name: PiP tracks
+    url: https://www.portamiinpista.it/Tracks/
+    maxResponseTime: 7000
+  - name: Juris
     url: https://www.jurisweb.it
-  - name: Hacker News
+  - name: GP software
     url: https://gpsoftware.it
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://www.portamiinpista.it/images/logo/android-icon-72x72.png
   name: Upptime
   introTitle: "**Upptime** uptime monitor and status page."
