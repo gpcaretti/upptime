@@ -8,11 +8,11 @@ sites:
     url: https://gpsoftware.it
   - name: PiP
     url: https://www.portamiinpista.it
+    maxResponseTime: 8000
   - name: PiP test 200
     url: https://www.portamiinpista.it
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
 - name: Juris
     url: https://www.jurisweb.it
 
