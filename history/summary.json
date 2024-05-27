@@ -58,19 +58,19 @@
     "url": "https://gpsoftware.it",
     "icon": "https://icons.duckduckgo.com/ip3/gpsoftware.it.ico",
     "slug": "gp-software",
-    "status": "up",
-    "uptime": "56.58%",
-    "uptimeDay": "56.58%",
-    "uptimeWeek": "56.58%",
-    "uptimeMonth": "56.58%",
-    "uptimeYear": "56.58%",
-    "time": 2180,
-    "timeDay": 2016,
-    "timeWeek": 2180,
-    "timeMonth": 2180,
-    "timeYear": 2180,
+    "status": "down",
+    "uptime": "76.26%",
+    "uptimeDay": "76.26%",
+    "uptimeWeek": "76.26%",
+    "uptimeMonth": "76.26%",
+    "uptimeYear": "76.26%",
+    "time": 1989,
+    "timeDay": 1821,
+    "timeWeek": 1989,
+    "timeMonth": 1989,
+    "timeYear": 1989,
     "dailyMinutesDown": {
-      "2024-05-27": 54
+      "2024-05-27": 53
     }
   }
 ]
