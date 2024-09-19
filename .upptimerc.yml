@@ -11,7 +11,7 @@ sites:
       - 200
   - name: Juris
     url: https://www.jurisweb.it
-  - name: GP software
+  - name: GP software web site
     url: https://gpsoftware.it
 
 status-website:
