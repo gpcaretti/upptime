@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 sites:
   - name: PiP
     url: https://www.portamiinpista.it
-    maxResponseTime: 9000
+    maxResponseTime: 8000
     expectedStatusCodes:
       - 200
 
@@ -19,6 +19,9 @@ sites:
 
   - name: GP software web site
     url: https://gpsoftware.it
+
+  - name: TAIS Naples
+    url: https://taisnaples.it/en
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
