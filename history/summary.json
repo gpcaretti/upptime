@@ -157,18 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/taisnaples.it.ico",
     "slug": "tais-naples",
     "status": "up",
-    "uptime": "1.81%",
-    "uptimeDay": "1.81%",
-    "uptimeWeek": "1.81%",
-    "uptimeMonth": "1.81%",
-    "uptimeYear": "1.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 945,
     "timeDay": 945,
     "timeWeek": 945,
     "timeMonth": 945,
     "timeYear": 945,
-    "dailyMinutesDown": {
-      "2025-02-21": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
