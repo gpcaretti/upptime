@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.portamiinpista.it.ico",
     "slug": "pi-p",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.24%",
-    "time": 2456,
-    "timeDay": 1666,
-    "timeWeek": 1817,
-    "timeMonth": 1716,
-    "timeYear": 2594,
+    "uptime": "98.60%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "98.21%",
+    "time": 2458,
+    "timeDay": 0,
+    "timeWeek": 1758,
+    "timeMonth": 1728,
+    "timeYear": 2569,
     "dailyMinutesDown": {
-      "2025-09-21": 0,
+      "2025-09-22": 63,
+      "2025-09-21": 88,
       "2025-09-09": 36,
       "2025-08-31": 26,
       "2025-08-29": 20,
@@ -79,8 +80,7 @@
       "2024-09-26": 512,
       "2024-09-25": 1440,
       "2024-09-24": 306,
-      "2024-09-23": 541,
-      "2024-09-22": 224
+      "2024-09-23": 541
     }
   },
   {
@@ -93,12 +93,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.55%",
     "time": 1311,
-    "timeDay": 1534,
-    "timeWeek": 1314,
-    "timeMonth": 1173,
-    "timeYear": 1378,
+    "timeDay": 1262,
+    "timeWeek": 1333,
+    "timeMonth": 1191,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2025-02-21": 318,
       "2025-02-20": 37,
@@ -118,8 +118,7 @@
       "2024-10-01": 322,
       "2024-09-30": 78,
       "2024-09-24": 199,
-      "2024-09-23": 432,
-      "2024-09-22": 173
+      "2024-09-23": 432
     }
   },
   {
@@ -134,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 1242,
-    "timeDay": 936,
-    "timeWeek": 1104,
-    "timeMonth": 1037,
+    "timeDay": 1102,
+    "timeWeek": 1123,
+    "timeMonth": 1050,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2024-12-03": 16,
@@ -158,8 +157,7 @@
       "2024-10-01": 257,
       "2024-09-30": 72,
       "2024-09-24": 252,
-      "2024-09-23": 418,
-      "2024-09-22": 100
+      "2024-09-23": 418
     }
   },
   {
@@ -173,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1001,
-    "timeDay": 1046,
-    "timeWeek": 1070,
-    "timeMonth": 954,
-    "timeYear": 1001,
+    "time": 1002,
+    "timeDay": 1143,
+    "timeWeek": 1044,
+    "timeMonth": 969,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
