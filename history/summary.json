@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "98.75%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "98.73%",
     "time": 2629,
-    "timeDay": 2132,
-    "timeWeek": 1836,
-    "timeMonth": 1777,
-    "timeYear": 1900,
+    "timeDay": 1624,
+    "timeWeek": 1936,
+    "timeMonth": 1763,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-09-22": 378,
       "2025-09-21": 88,
@@ -74,8 +74,7 @@
       "2024-10-11": 38,
       "2024-10-09": 49,
       "2024-10-08": 18,
-      "2024-10-01": 340,
-      "2024-09-30": 175
+      "2024-10-01": 340
     }
   },
   {
@@ -86,14 +85,14 @@
     "status": "up",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.02%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.65%",
     "time": 1315,
-    "timeDay": 1113,
-    "timeWeek": 1593,
-    "timeMonth": 1311,
-    "timeYear": 1307,
+    "timeDay": 1195,
+    "timeWeek": 1169,
+    "timeMonth": 1318,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2025-02-21": 318,
@@ -111,8 +110,7 @@
       "2024-10-12": 39,
       "2024-10-11": 35,
       "2024-10-09": 48,
-      "2024-10-01": 322,
-      "2024-09-30": 78
+      "2024-10-01": 322
     }
   },
   {
@@ -121,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpsoftware.it.ico",
     "slug": "gp-software-web-site",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.03%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.69%",
     "time": 1235,
-    "timeDay": 967,
-    "timeWeek": 895,
-    "timeMonth": 1008,
-    "timeYear": 1108,
+    "timeDay": 1083,
+    "timeWeek": 930,
+    "timeMonth": 995,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2024-12-03": 16,
@@ -149,8 +147,7 @@
       "2024-10-12": 36,
       "2024-10-11": 34,
       "2024-10-09": 47,
-      "2024-10-01": 257,
-      "2024-09-30": 72
+      "2024-10-01": 257
     }
   },
   {
@@ -164,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1003,
-    "timeDay": 1122,
-    "timeWeek": 1038,
-    "timeMonth": 984,
-    "timeYear": 1003,
+    "time": 1004,
+    "timeDay": 1107,
+    "timeWeek": 1053,
+    "timeMonth": 992,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
