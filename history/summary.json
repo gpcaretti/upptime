@@ -10,10 +10,10 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.82%",
-    "time": 2544,
-    "timeDay": 1528,
-    "timeWeek": 1813,
-    "timeMonth": 1789,
+    "time": 2531,
+    "timeDay": 1365,
+    "timeWeek": 1739,
+    "timeMonth": 1782,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2025-10-07": 34,
@@ -73,8 +73,7 @@
       "2024-10-14": 328,
       "2024-10-12": 41,
       "2024-10-11": 38,
-      "2024-10-09": 49,
-      "2024-10-08": 18
+      "2024-10-09": 49
     }
   },
   {
@@ -88,9 +87,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.73%",
-    "time": 1310,
-    "timeDay": 1147,
-    "timeWeek": 941,
+    "time": 1308,
+    "timeDay": 701,
+    "timeWeek": 858,
     "timeMonth": 1239,
     "timeYear": 1292,
     "dailyMinutesDown": {
@@ -118,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpsoftware.it.ico",
     "slug": "gp-software-web-site",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.76%",
-    "time": 1230,
-    "timeDay": 918,
-    "timeWeek": 917,
-    "timeMonth": 987,
+    "time": 1228,
+    "timeDay": 597,
+    "timeWeek": 881,
+    "timeMonth": 980,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-09-22": 199,
@@ -159,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1004,
-    "timeDay": 2019,
-    "timeWeek": 1001,
-    "timeMonth": 1025,
-    "timeYear": 1004,
+    "time": 1003,
+    "timeDay": 806,
+    "timeWeek": 978,
+    "timeMonth": 1024,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
