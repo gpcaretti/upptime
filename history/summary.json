@@ -6,14 +6,14 @@
     "slug": "pi-p",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "97.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "98.82%",
-    "time": 2531,
-    "timeDay": 1365,
-    "timeWeek": 1739,
-    "timeMonth": 1782,
+    "uptimeYear": "98.83%",
+    "time": 2529,
+    "timeDay": 1343,
+    "timeWeek": 1714,
+    "timeMonth": 1767,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2025-10-07": 34,
@@ -72,8 +72,7 @@
       "2024-10-15": 84,
       "2024-10-14": 328,
       "2024-10-12": 41,
-      "2024-10-11": 38,
-      "2024-10-09": 49
+      "2024-10-11": 38
     }
   },
   {
@@ -88,9 +87,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.73%",
     "time": 1308,
-    "timeDay": 701,
-    "timeWeek": 858,
-    "timeMonth": 1239,
+    "timeDay": 948,
+    "timeWeek": 862,
+    "timeMonth": 1243,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2025-09-22": 199,
@@ -107,8 +106,7 @@
       "2024-10-15": 15,
       "2024-10-14": 310,
       "2024-10-12": 39,
-      "2024-10-11": 35,
-      "2024-10-09": 48
+      "2024-10-11": 35
     }
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.76%",
-    "time": 1228,
-    "timeDay": 597,
-    "timeWeek": 881,
-    "timeMonth": 980,
-    "timeYear": 1107,
+    "time": 1227,
+    "timeDay": 804,
+    "timeWeek": 898,
+    "timeMonth": 949,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2024-12-03": 16,
@@ -143,8 +141,7 @@
       "2024-10-15": 76,
       "2024-10-14": 306,
       "2024-10-12": 36,
-      "2024-10-11": 34,
-      "2024-10-09": 47
+      "2024-10-11": 34
     }
   },
   {
@@ -159,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1003,
-    "timeDay": 806,
-    "timeWeek": 978,
-    "timeMonth": 1024,
+    "timeDay": 1086,
+    "timeWeek": 1010,
+    "timeMonth": 1033,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-09-04": 19
