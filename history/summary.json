@@ -10,10 +10,10 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.85%",
-    "time": 2524,
-    "timeDay": 1400,
-    "timeWeek": 1566,
-    "timeMonth": 1748,
+    "time": 2522,
+    "timeDay": 1824,
+    "timeWeek": 1459,
+    "timeMonth": 1743,
     "timeYear": 1846,
     "dailyMinutesDown": {
       "2025-10-07": 34,
@@ -69,8 +69,7 @@
       "2024-10-18": 31,
       "2024-10-17": 48,
       "2024-10-16": 38,
-      "2024-10-15": 84,
-      "2024-10-14": 328
+      "2024-10-15": 84
     }
   },
   {
@@ -85,10 +84,10 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.75%",
     "time": 1359,
-    "timeDay": 869,
-    "timeWeek": 989,
-    "timeMonth": 1224,
-    "timeYear": 1258,
+    "timeDay": 939,
+    "timeWeek": 959,
+    "timeMonth": 1213,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2025-02-21": 318,
@@ -101,8 +100,7 @@
       "2024-11-18": 30,
       "2024-10-19": 44,
       "2024-10-18": 25,
-      "2024-10-15": 15,
-      "2024-10-14": 310
+      "2024-10-15": 15
     }
   },
   {
@@ -116,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.78%",
-    "time": 1225,
-    "timeDay": 588,
-    "timeWeek": 924,
-    "timeMonth": 972,
-    "timeYear": 1010,
+    "time": 1224,
+    "timeDay": 777,
+    "timeWeek": 903,
+    "timeMonth": 957,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2024-12-03": 16,
@@ -134,8 +132,7 @@
       "2024-11-17": 48,
       "2024-10-20": 44,
       "2024-10-19": 42,
-      "2024-10-15": 76,
-      "2024-10-14": 306
+      "2024-10-15": 76
     }
   },
   {
@@ -149,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1003,
-    "timeDay": 796,
-    "timeWeek": 1116,
-    "timeMonth": 1031,
-    "timeYear": 1003,
+    "time": 1002,
+    "timeDay": 826,
+    "timeWeek": 945,
+    "timeMonth": 1020,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
