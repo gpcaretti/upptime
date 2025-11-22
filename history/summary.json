@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.39%",
-    "time": 2161,
-    "timeDay": 1854,
-    "timeWeek": 1354,
-    "timeMonth": 1687,
-    "timeYear": 1740,
+    "time": 2131,
+    "timeDay": 2201,
+    "timeWeek": 1492,
+    "timeMonth": 1697,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2025-11-14": 34,
       "2025-11-06": 204,
@@ -61,8 +61,7 @@
       "2024-11-28": 212,
       "2024-11-27": 127,
       "2024-11-26": 22,
-      "2024-11-24": 25,
-      "2024-11-22": 61
+      "2024-11-24": 25
     }
   },
   {
@@ -71,24 +70,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jurisweb.it.ico",
     "slug": "juris",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1352,
-    "timeDay": 1644,
-    "timeWeek": 905,
-    "timeMonth": 1136,
-    "timeYear": 1155,
+    "time": 1344,
+    "timeDay": 1293,
+    "timeWeek": 959,
+    "timeMonth": 1149,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2025-02-21": 318,
       "2025-02-20": 37,
       "2025-01-04": 18,
       "2024-11-29": 39,
-      "2024-11-28": 212,
-      "2024-11-22": 17
+      "2024-11-28": 212
     }
   },
   {
@@ -102,19 +100,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1157,
-    "timeDay": 920,
-    "timeWeek": 783,
-    "timeMonth": 957,
-    "timeYear": 946,
+    "time": 1156,
+    "timeDay": 975,
+    "timeWeek": 837,
+    "timeMonth": 938,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-09-22": 199,
       "2024-12-03": 16,
       "2024-12-01": 44,
       "2024-11-30": 38,
       "2024-11-29": 36,
-      "2024-11-28": 211,
-      "2024-11-22": 17
+      "2024-11-28": 211
     }
   },
   {
@@ -128,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1269,
-    "timeWeek": 972,
-    "timeMonth": 1638,
-    "timeYear": 1070,
+    "time": 1071,
+    "timeDay": 1320,
+    "timeWeek": 979,
+    "timeMonth": 1654,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
