@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.portamiinpista.it.ico",
     "slug": "pi-p",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.51%",
-    "time": 1884,
-    "timeDay": 1566,
-    "timeWeek": 1557,
-    "timeMonth": 1552,
+    "time": 1860,
+    "timeDay": 1986,
+    "timeWeek": 1607,
+    "timeMonth": 1563,
     "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-11-30": 16,
@@ -52,8 +52,7 @@
       "2025-01-22": 16,
       "2025-01-18": 21,
       "2024-12-16": 16,
-      "2024-12-13": 18,
-      "2024-12-11": 28
+      "2024-12-13": 18
     }
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
     "time": 1282,
-    "timeDay": 1569,
-    "timeWeek": 1108,
-    "timeMonth": 1092,
-    "timeYear": 1120,
+    "timeDay": 1142,
+    "timeWeek": 1168,
+    "timeMonth": 1102,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-11-30": 15,
       "2025-09-22": 199,
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1080,
-    "timeDay": 822,
-    "timeWeek": 1016,
-    "timeMonth": 879,
-    "timeYear": 915,
+    "time": 1081,
+    "timeDay": 1157,
+    "timeWeek": 957,
+    "timeMonth": 882,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-09-22": 199
     }
@@ -111,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 1006,
-    "timeWeek": 1054,
-    "timeMonth": 1652,
-    "timeYear": 1065,
+    "time": 1066,
+    "timeDay": 1307,
+    "timeWeek": 1141,
+    "timeMonth": 1500,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-09-04": 19
     }
