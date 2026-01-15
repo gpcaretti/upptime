@@ -1,7 +1,7 @@
 url: https://www.portamiinpista.it
-status: up
-code: 200
-responseTime: 2000
-lastUpdated: 2026-01-14T23:23:21.584Z
+status: down
+code: 500
+responseTime: 1589
+lastUpdated: 2026-01-15T17:05:01.594Z
 startTime: 2024-05-26T05:48:08.020Z
 generator: Upptime <https://github.com/upptime/upptime>
