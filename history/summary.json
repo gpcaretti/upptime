@@ -4,17 +4,17 @@
     "url": "https://www.portamiinpista.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.portamiinpista.it.ico",
     "slug": "pi-p",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.30%",
-    "time": 1716,
-    "timeDay": 1478,
-    "timeWeek": 1752,
-    "timeMonth": 1815,
-    "timeYear": 1692,
+    "time": 1801,
+    "timeDay": 26077,
+    "timeWeek": 7867,
+    "timeMonth": 3342,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2025-07-18": 42,
       "2025-07-20": 21,
@@ -42,7 +42,8 @@
       "2026-03-24": 41,
       "2026-05-15": 324,
       "2026-05-21": 57,
-      "2026-07-06": 53
+      "2026-07-06": 53,
+      "2026-07-14": 0
     }
   },
   {
